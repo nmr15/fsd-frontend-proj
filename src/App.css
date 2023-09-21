@@ -2,3 +2,14 @@
 {
   font-family: "Roboto";
 }
+
+.btn-myblue,
+h2 {
+  color: #fff;
+  background-color: #3D56B2;
+}
+
+h2 {
+  padding: 10px 0;
+  padding-left: 10px;
+}
