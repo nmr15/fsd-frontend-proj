@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Squier Sonic Stratocaster",
+    "price": 199.99,
+    "img": "https://drive.google.com/uc?export=view&id=1oeyKc8Q9QhdZkNDsU6QW4wObEyVYTccl"
+  },
+  {
+    "id": 2,
+    "name": "Paramount Jazzmaster",
+    "price": 449.99,
+    "img": "https://drive.google.com/uc?export=view&id=1qAhdal9HeeZCjp2d3A537qqqSq-_KmN6"
+  },
+  {
+    "id": 3,
+    "name": "Affinity Series Telecaster",
+    "price": 249.99,
+    "img": "https://drive.google.com/uc?export=view&id=1GCegWtSlMSKwuvtJc2uDMcq15p10EJoZ"
+  },
+  {
+    "id": 4,
+    "name": "Squier Sonic Mustang",
+    "price": 199.99,
+    "img": "https://drive.google.com/uc?export=view&id=13GVM00zvH1w1uRyFX8cy7dtZJRzgmAar"
+  },
+  {
+    "id": 5,
+    "name": "Monterey Standard",
+    "price": 379.99,
+    "img": "https://drive.google.com/uc?export=view&id=1uso_TgAKnSO9De7hE_spyLlpEKM_mNAZ"
+  },
+  {
+    "id": 6,
+    "name": "FA-125CE Dreadnought",
+    "price": 199.99,
+    "img": "https://drive.google.com/uc?export=view&id=1VZ1g097RKzYTZXmB8t559toWLiURPiD1"
+  },
+  {
+    "id": 7,
+    "name": "Newport Player",
+    "price": 449.99,
+    "img": "https://drive.google.com/uc?export=view&id=14Z9VYIqMnnJH7MqGdmNKvRRq0XmXC2O0"
+  },
+  {
+    "id": 8,
+    "name": "Redondo Player",
+    "price": 449.99,
+    "img": "https://drive.google.com/uc?export=view&id=10pIJLtOetIVgBsMEax3YE4zqW7CVQ2T3"
+  }
+]
